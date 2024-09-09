@@ -84,6 +84,6 @@
 <h2 align="left">Lets Connect 🤝</h2>
 <p align="center">
   
-<a href="www.linkedin.com/in/bababdulganiyu" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="talha-shaikh-668ab8201"/></a>&nbsp;
+<a href="[www.linkedin.com/in/bababdulganiyu](https://www.linkedin.com/in/bababdulganiyu/)" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="talha-shaikh-668ab8201"/></a>&nbsp;
 <!-- <a href="https://bit.ly/KelvinOdi-Apps" target="blank"><img align="center" src="https://img.shields.io/badge/PlayStore-%23007BFF.svg?style=for-the-badge&logo=Google-Play&logoColor=white" alt="KelvinOdi-Apps"/></a>&nbsp;
 </p> -->

@@ -10,7 +10,7 @@
 
 <h3 align='center'>currently in my third year at Carleton University.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultraodi&label=Profile%20views&color=0e75b6&style=flat" alt="ultraodi" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=  &label=Profile%20views&color=0e75b6&style=flat" alt="  " /> </p> -->
 
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
@@ -72,18 +72,18 @@
 
 
 <p align="center">
-<a href="https://github.com/ultraodi">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ultraodi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ultraodi&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/  ">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=  &show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=  &layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>-->
 <!--    <br>
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ultraodi&theme=dark" alt="Clinton's GitHub Contribution Graph"/> -->
+  <img src="https://github-contribution-stats.vercel.app/api/?username=  &theme=dark" alt=" 's GitHub Contribution Graph"/> -->
 <!--<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>-->
 
 <h2 align="left">Lets Connect 🤝</h2>
 <p align="center">
   
 <a href="https://www.linkedin.com/in/bababdulganiyu/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="talha-shaikh-668ab8201"/></a>&nbsp;
-<!-- <a href="https://bit.ly/KelvinOdi-Apps" target="blank"><img align="center" src="https://img.shields.io/badge/PlayStore-%23007BFF.svg?style=for-the-badge&logo=Google-Play&logoColor=white" alt="KelvinOdi-Apps"/></a>&nbsp;
+<!-- <a href="https://bit.ly/   -Apps" target="blank"><img align="center" src="https://img.shields.io/badge/PlayStore-%23007BFF.svg?style=for-the-badge&logo=Google-Play&logoColor=white" alt="   -Apps"/></a>&nbsp;
 </p> -->
